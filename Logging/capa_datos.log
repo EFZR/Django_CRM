@@ -1,2 +1,8 @@
 11:48:38 AM: INFO [views.py:22] The user admin has logged in
 11:49:06 AM: INFO [views.py:111] The user admin update the record Rex Dinosour
+11:55:07 AM: WARNING [log.py:241] Not Found: /asdf
+11:56:26 AM: INFO [autoreload.py:266] C:\Users\user\Documents\curso de Python\PROJECTS\Django_CRM\dcrm\dcrm\settings.py changed, reloading.
+11:58:06 AM: WARNING [log.py:241] Not Found: /asdf
+11:58:23 AM: INFO [views.py:38] User has logout
+11:58:26 AM: WARNING [log.py:241] Not Found: /asdf
+11:59:19 AM: INFO [autoreload.py:266] C:\Users\user\Documents\curso de Python\PROJECTS\Django_CRM\dcrm\dcrm\settings.py changed, reloading.
