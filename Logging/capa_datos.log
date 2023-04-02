@@ -6,3 +6,4 @@
 11:58:23 AM: INFO [views.py:38] User has logout
 11:58:26 AM: WARNING [log.py:241] Not Found: /asdf
 11:59:19 AM: INFO [autoreload.py:266] C:\Users\user\Documents\curso de Python\PROJECTS\Django_CRM\dcrm\dcrm\settings.py changed, reloading.
+12:01:39 PM: WARNING [views.py:100] Trying to see records without being logged in
