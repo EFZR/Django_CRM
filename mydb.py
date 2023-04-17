@@ -18,4 +18,4 @@ try:
 except Exception as e:
     print(f'Ha ocurrido Un error: {e}')
 finally:
-  connection.close()
+    connection.close()
